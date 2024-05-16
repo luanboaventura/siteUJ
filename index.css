@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+    
+  }
+
+  .jurema{
+    font-size: 50px;
+  }
+
+  .sagrada{
+    font-size: 50px;
+    color: green;
+    border-color: green;
+  }
+  .container{
+    display:flex;
+    justify-content: center;
+  }
+
+  .img-fluid{
+width: 100%;
+height: auto;
+display: block;
+    
+  }
+  .container-fluid{
+   
+  }
+  .sagrada-nav{
+    color: green;
+  }
+
+  .sobreaJR{
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .hr{
+    border-bottom: 2px solid black;
+  }
+  .card{
+    background-color:cornsilk;
+  }
+
