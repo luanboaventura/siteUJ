@@ -2,6 +2,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color:white;
     
+    
   }
 
   .jurema{
@@ -24,9 +25,11 @@ height: auto;
 display: block;
     
   }
-  .container-fluid{
-   
+  .navbar{
+    position: fixed;
+    width: 100%;
   }
+  
   .sagrada-nav{
     color: green;
   }
@@ -36,10 +39,13 @@ display: block;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
   }
-  .hr{
+  hr{
     border-bottom: 2px solid black;
   }
-  .card{
+  .rodape{
     background-color:cornsilk;
+   
   }
+
+  
 
